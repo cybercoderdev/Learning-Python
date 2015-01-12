@@ -5,7 +5,7 @@
 #  myfirstpy.py
 #  
 # Copyright 2014 Tim Layton <dev@cybercoder.org>
-#  
+# Source: https://github.com/cybercoderdev/Learning-Python
 
 def main():
 	print "Hello Python..."
