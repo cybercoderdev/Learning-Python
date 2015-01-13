@@ -35,7 +35,7 @@ myFunction() #call the function
 print i #print the value of i - with global commented out var i is local to function.
 
 # note: uncomment the next two lines and then fix the error
-#del i #delete the value of i
+# del i #delete the value of i
 #print i #this will throw an error because var not initialized
 
 
