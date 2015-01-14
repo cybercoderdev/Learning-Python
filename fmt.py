@@ -27,7 +27,7 @@
 name = "Tim"
 favos = "Linux"
 favcomp = "MacBook Air"
-mbaweight = 1 # 1 pound
+mbaweight = 1.2 # 1 pound
 
-print "%s's favorite OS is %s running on a %s that weighs about %d pounds" % (name, favos, favcomp, mbaweight)
+print "%s's favorite OS is %s running on a %s that weighs about %f pounds" % (name, favos, favcomp, mbaweight)
 
