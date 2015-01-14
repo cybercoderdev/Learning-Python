@@ -36,6 +36,6 @@ print i #print the value of i - with global commented out var i is local to func
 
 # note: uncomment the next two lines and then fix the error
 # del i #delete the value of i
-#print i #this will throw an error because var not initialized
+# print i #this will throw an error because var not initialized
 
 
