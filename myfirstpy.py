@@ -2,7 +2,7 @@
 # Tim Layton
 # dev@cybercoder.org
 #
-#  myfirstpy.py
+#  myfirstpy.py - Github
 #  
 # Copyright 2014 Tim Layton <dev@cybercoder.org>
 # Source: https://github.com/cybercoderdev/Learning-Python
